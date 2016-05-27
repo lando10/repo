@@ -20,7 +20,7 @@
 	</style>
 	<body>
 	
-		<h1> Je t'aime ma sublime creature Essu</h1>
+		<h1> Je t'aime ma sublime creature</h1>
 
 	</body>
 </html>
